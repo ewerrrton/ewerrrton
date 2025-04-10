@@ -8,14 +8,27 @@
 
 ### 🚀 Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="30"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/SWI_Prolog_logo.png/600px-SWI_Prolog_logo.png" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>
-
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="30"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/SWI_Prolog_logo.png/600px-SWI_Prolog_logo.png" width="30"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="30"/>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>
+</div>
 
 ---
 
