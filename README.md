@@ -25,7 +25,7 @@
 ### 📫 Contact
 
 <p align="center">
-  <a href="mailto:teusemail@email.com"><img src="https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="ewerton.fernandes.souza@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
