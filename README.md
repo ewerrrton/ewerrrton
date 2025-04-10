@@ -33,5 +33,11 @@
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ewerrrton&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="Ewerton's GitHub stats"/>
+</p>
+
+---
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teuuseraqui&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="Ewerton's GitHub stats"/>
 </p>
