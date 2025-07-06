@@ -1,8 +1,8 @@
 ## Hey there! I'm Ewerton 👋
 
-🎓 I'm a Computer Science student at UFCG, currently in my 5th semester.  
-💻 Passionate about algorithms, problem solving, and clean code.  
-🐧 Linux enthusiast and daily Vim user.
+🎓 Computer Science student @ UFCG (5th semester)
+💻 Passionate about algorithms, problem solving & clean code
+🐧 Linux & Vim enthusiast
 
 ### 🧠 Technologies & Tools I use:
 
