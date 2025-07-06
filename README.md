@@ -1,6 +1,6 @@
 ## Hey there! I'm Ewerton 👋
 
-🎓 I'm a Computer Science student at UFCG, currently in my 4th semester.  
+🎓 I'm a Computer Science student at UFCG, currently in my 5th semester.  
 💻 Passionate about algorithms, problem solving, and clean code.  
 🐧 Linux enthusiast and daily Vim user.
 
