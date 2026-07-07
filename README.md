@@ -25,11 +25,13 @@
 📧 ewerton.fernandes.souza@ccc.ufcg.edu.br
 
 ---
-### 📊 GitHub Stats
+## 🛠 Tech Stack
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerrrton&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" 
-    alt="Top Languages"
-  />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
