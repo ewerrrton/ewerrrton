@@ -25,7 +25,6 @@
 📧 ewerton.fernandes.souza@ccc.ufcg.edu.br
 
 ---
-
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewerrrton&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewerrrton&layout=compact&theme=tokyonight&langs_count=8)
